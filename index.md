@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 My name is Sarayu Pai and I'm a junior at UCSD pursuing a major in Bioinformatics.
 
@@ -6,12 +6,13 @@ One quote about computer science by Edsger Dijkstra that I enjoy is the followin
 >Computer science is no more about computers than astronomy is about telescopes.
 
 One of my favorite books is *Murder on the Orient Express*
+
 ![Murder on the Orient Express](https://images-na.ssl-images-amazon.com/images/I/51OjSh7ZY5L.jpg)
 
 Some of my hobbies include:
--Dancing 
--Drawing
--Travelling 
+- Dancing 
+- Drawing
+- Travelling 
 
 The following are classes I'm taking this quarter.
 1. BENG 183
@@ -35,9 +36,9 @@ git branch
 git push
 ```
 
-[This site] helped refresh my memory on git commands.(http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+[This site](http://guides.beanstalkapp.com/version-control/common-git-commands.html) helped refresh my memory on git commands.
 
-[This] is the README file for this user page.(./README.md) 
+[This](./README.md) is the README file for this user page.
 
 
 
