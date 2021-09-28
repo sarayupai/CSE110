@@ -5,6 +5,8 @@ My name is Sarayu Pai and I'm a junior at UCSD pursuing a major in Bioinformatic
 One quote about computer science by Edsger Dijkstra that I enjoy is the following:
 >Computer science is no more about computers than astronomy is about telescopes.
 
+## My Interests
+
 One of my favorite books is *Murder on the Orient Express*
 
 ![Murder on the Orient Express](https://images-na.ssl-images-amazon.com/images/I/51OjSh7ZY5L.jpg)
@@ -13,6 +15,8 @@ Some of my hobbies include:
 - Dancing 
 - Drawing
 - Travelling 
+
+## My Classes
 
 The following are classes I'm taking this quarter.
 1. BENG 183
@@ -28,6 +32,8 @@ These are the CSE classes I need for my major:
 - [x] CSE 100
 - [x] CSE 101
 - [ ] CSE 185
+
+## The Lab
 
 A few of the git commands I used during this lab are below.
 ```
